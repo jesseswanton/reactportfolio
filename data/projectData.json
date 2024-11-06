@@ -1,0 +1,33 @@
+[
+    {
+      "title": "Daily Listening",
+      "description": [
+        "A web application designed for users who want a quick tarot card reading to be accompanied by music",
+        "Javascript, HTML, CSS (Bootstrap)"
+      ],
+      "link": "https://github.com/jesseswanton/Daily-Listening",
+      "image": "./assets/fortuneTeller.gif",
+      "altText": "Daily Listening"
+    },
+    {
+      "title": "Vehicle Simulation",
+      "description": [
+        "Logs details and simulates use of cars, trucks, and motorbikes",
+        "TypeScript command-line application"
+      ],
+      "link": "https://github.com/jesseswanton/vehiclesimulation",
+      "image": "./assets/VehicleSimulation.jfif",
+      "altText": "Vehicle Simulation"
+    },
+    {
+      "title": "Employee Tracker",
+      "description": [
+        "Manage a company's employee database",
+        "Node.js, Inquirer, and PostgreSQL"
+      ],
+      "link": "https://github.com/jesseswanton/employeetracker",
+      "image": "./assets/EmployeeTracker.PNG",
+      "altText": "Employee Tracker"
+    }
+  ]
+  
