@@ -28,7 +28,7 @@ body {
   min-width: 320px;
   min-height: 100vh;
   background-color: black; 
-  background-image: url('https://github.com/jesseswanton/reactportfolio/blob/main/assets/SLC.jpg');
+  background-image: url('https://raw.githubusercontent.com/jesseswanton/reactportfolio/refs/heads/main/assets/SLC.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
